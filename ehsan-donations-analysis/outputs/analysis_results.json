@@ -1,0 +1,272 @@
+{
+  "pivots": {
+    "total_donations": {
+      "Q1": {
+        "2024": 1770403356.0,
+        "2025": 2168360538.0,
+        "2026": 2409391454.0
+      },
+      "Q2": {
+        "2024": 1341894421.0,
+        "2025": 895467088.0,
+        "2026": 839338337.0
+      },
+      "Q3": {
+        "2024": 442660349.0,
+        "2025": 679812154.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 657544323.0,
+        "2025": 800924882.0,
+        "2026": NaN
+      }
+    },
+    "operations_count": {
+      "Q1": {
+        "2024": 18187514.0,
+        "2025": 37228545.0,
+        "2026": 50984752.0
+      },
+      "Q2": {
+        "2024": 26142165.0,
+        "2025": 32408277.0,
+        "2026": 45979313.0
+      },
+      "Q3": {
+        "2024": 20963850.0,
+        "2025": 31888529.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 23901783.0,
+        "2025": 33857452.0,
+        "2026": NaN
+      }
+    },
+    "associations_added": {
+      "Q1": {
+        "2024": 183.0,
+        "2025": 216.0,
+        "2026": 203.0
+      },
+      "Q2": {
+        "2024": 105.0,
+        "2025": 226.0,
+        "2026": 108.0
+      },
+      "Q3": {
+        "2024": 146.0,
+        "2025": 175.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 196.0,
+        "2025": 91.0,
+        "2026": NaN
+      }
+    },
+    "completed_projects_count": {
+      "Q1": {
+        "2024": 2161.0,
+        "2025": 2286.0,
+        "2026": 2693.0
+      },
+      "Q2": {
+        "2024": 1370.0,
+        "2025": 2109.0,
+        "2026": 2124.0
+      },
+      "Q3": {
+        "2024": 829.0,
+        "2025": 1704.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 1548.0,
+        "2025": 1487.0,
+        "2026": NaN
+      }
+    },
+    "completed_projects_value": {
+      "Q1": {
+        "2024": 542462885.0,
+        "2025": 629130474.0,
+        "2026": 903839943.0
+      },
+      "Q2": {
+        "2024": 423359717.0,
+        "2025": 644898370.0,
+        "2026": 611040711.0
+      },
+      "Q3": {
+        "2024": 246335553.0,
+        "2025": 679812154.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 474424302.0,
+        "2025": 558627353.0,
+        "2026": NaN
+      }
+    },
+    "campaign_donations_total": {
+      "Q1": {
+        "2024": 65539517.0,
+        "2025": 67670399.0,
+        "2026": 69385525.0
+      },
+      "Q2": {
+        "2024": 52346248.0,
+        "2025": 53972487.0,
+        "2026": 49815892.0
+      },
+      "Q3": {
+        "2024": 41342038.0,
+        "2025": 45646703.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 43320579.0,
+        "2025": 53150559.0,
+        "2026": NaN
+      }
+    },
+    "campaigns_created": {
+      "Q1": {
+        "2024": 83714.0,
+        "2025": 100298.0,
+        "2026": 114887.0
+      },
+      "Q2": {
+        "2024": 72554.0,
+        "2025": 73519.0,
+        "2026": 84556.0
+      },
+      "Q3": {
+        "2024": 54516.0,
+        "2025": 74136.0,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 60643.0,
+        "2025": 76386.0,
+        "2026": NaN
+      }
+    }
+  },
+  "ramadan_effect": {
+    "2024": {
+      "q1_share_of_year_pct": 42.0,
+      "q1_vs_other_quarters_ratio": 2.17
+    },
+    "2025": {
+      "q1_share_of_year_pct": 47.7,
+      "q1_vs_other_quarters_ratio": 2.74
+    },
+    "avg_donation_per_operation_SAR": {
+      "Q1": {
+        "2024": 97.3,
+        "2025": 58.2,
+        "2026": 47.3
+      },
+      "Q2": {
+        "2024": 51.3,
+        "2025": 27.6,
+        "2026": 18.3
+      },
+      "Q3": {
+        "2024": 21.1,
+        "2025": 21.3,
+        "2026": NaN
+      },
+      "Q4": {
+        "2024": 27.5,
+        "2025": 23.7,
+        "2026": NaN
+      }
+    }
+  },
+  "q1_2027_forecast_total_donations": {
+    "growth_2024_2025_pct": 22.5,
+    "growth_2025_2026_pct": 11.1,
+    "avg_growth_pct": 16.8,
+    "cagr_pct": 16.7,
+    "forecast_avg_growth_method": 2814098717.0,
+    "forecast_cagr_method": 2810767584.0,
+    "forecast_range_low": 2677214917.0,
+    "forecast_range_high": 2950982516.0
+  },
+  "q1_2027_forecast_all_indicators": {
+    "total_donations": {
+      "growth_2024_2025_pct": 22.5,
+      "growth_2025_2026_pct": 11.1,
+      "avg_growth_pct": 16.8,
+      "cagr_pct": 16.7,
+      "forecast_avg_growth_method": 2814098717.0,
+      "forecast_cagr_method": 2810767584.0,
+      "forecast_range_low": 2677214917.0,
+      "forecast_range_high": 2950982516.0
+    },
+    "operations_count": {
+      "growth_2024_2025_pct": 104.7,
+      "growth_2025_2026_pct": 37.0,
+      "avg_growth_pct": 70.8,
+      "cagr_pct": 67.4,
+      "forecast_avg_growth_method": 87093064.0,
+      "forecast_cagr_method": 85363811.0,
+      "forecast_range_low": 69823973.0,
+      "forecast_range_high": 104362154.0
+    },
+    "associations_added": {
+      "growth_2024_2025_pct": 18.0,
+      "growth_2025_2026_pct": -6.0,
+      "avg_growth_pct": 6.0,
+      "cagr_pct": 5.3,
+      "forecast_avg_growth_method": 215.0,
+      "forecast_cagr_method": 214.0,
+      "forecast_range_low": 191.0,
+      "forecast_range_high": 240.0
+    },
+    "completed_projects_count": {
+      "growth_2024_2025_pct": 5.8,
+      "growth_2025_2026_pct": 17.8,
+      "avg_growth_pct": 11.8,
+      "cagr_pct": 11.6,
+      "forecast_avg_growth_method": 3011.0,
+      "forecast_cagr_method": 3006.0,
+      "forecast_range_low": 2849.0,
+      "forecast_range_high": 3172.0
+    },
+    "completed_projects_value": {
+      "growth_2024_2025_pct": 16.0,
+      "growth_2025_2026_pct": 43.7,
+      "avg_growth_pct": 29.8,
+      "cagr_pct": 29.1,
+      "forecast_avg_growth_method": 1173372378.0,
+      "forecast_cagr_method": 1166681417.0,
+      "forecast_range_low": 1048243608.0,
+      "forecast_range_high": 1298501148.0
+    },
+    "campaign_donations_total": {
+      "growth_2024_2025_pct": 3.3,
+      "growth_2025_2026_pct": 2.5,
+      "avg_growth_pct": 2.9,
+      "cagr_pct": 2.9,
+      "forecast_avg_growth_method": 71392787.0,
+      "forecast_cagr_method": 71392354.0,
+      "forecast_range_low": 71144121.0,
+      "forecast_range_high": 71641452.0
+    },
+    "campaigns_created": {
+      "growth_2024_2025_pct": 19.8,
+      "growth_2025_2026_pct": 14.5,
+      "avg_growth_pct": 17.2,
+      "cagr_pct": 17.1,
+      "forecast_avg_growth_method": 134622.0,
+      "forecast_cagr_method": 134588.0,
+      "forecast_range_low": 131598.0,
+      "forecast_range_high": 137646.0
+    }
+  }
+}
